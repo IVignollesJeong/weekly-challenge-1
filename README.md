@@ -21,6 +21,8 @@ Source code for the refactor can be found here: [HTML](https://github.com/IVigno
 
 ## Usage
 
+![Desktop Screenshot 2023 05 03 - 16 31 00 53](https://user-images.githubusercontent.com/131202032/236045033-3eb0d2a7-6de2-45d3-94d7-4bb3a3eab030.png)
+
 [The webpage can be reached here](https://ivignollesjeong.github.io/weekly-challenge-1/)
 
 Source code information can be found in the above "installation" section.
