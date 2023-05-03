@@ -17,7 +17,7 @@ Structure and appearance of the original webpage was not altered, only the code.
 
 As this is a code refactor of an existing webpage, installation is N/A.
 
-Source code for the refactor can be found here: [HTML](https://github.com/IVignollesJeong/weekly-challenge-1/blob/main/Develop/index.html) [CSS](https://github.com/IVignollesJeong/weekly-challenge-1/blob/main/Develop/assets/css/style.css).
+Source code for the refactor can be found here: [HTML](https://github.com/IVignollesJeong/weekly-challenge-1/blob/main/index.html) [CSS](https://github.com/IVignollesJeong/weekly-challenge-1/blob/main/assets/css/style.css).
 
 ## Usage
 
