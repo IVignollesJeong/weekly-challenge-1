@@ -21,7 +21,9 @@ Source code for the refactor can be found here: [HTML](https://github.com/IVigno
 
 ## Usage
 
-The webpage is reached through this URL, or by clicking here.
+![webpage](assets/images/Desktop Screenshot 2023.05.03 - 16.31.00.53.png)
+
+The webpage is reached through this URL:, or by clicking here.
 
 Source code information can be found in the above "installation" section.
 
