@@ -27,9 +27,9 @@ Source code information can be found in the above "installation" section.
 
 ## Credits
 
-[Alt text guidelines](https://blog.hubspot.com/marketing/image-alt-text)
-[Additional alt text information](https://www.hmc.edu/communications/accessibility-resources/alt-decision-tree-alternative-text-guide/)
-[CSS selector consolidation guide](https://www.w3schools.com/css/css_selectors.asp#:~:text=To%20group%20selectors%2C%20separate%20each%20selector%20with%20a%20comma.)
+[Alt text guidelines](https://blog.hubspot.com/marketing/image-alt-text) </br>
+[Additional alt text information](https://www.hmc.edu/communications/accessibility-resources/alt-decision-tree-alternative-text-guide/) </br>
+[CSS selector consolidation guide](https://www.w3schools.com/css/css_selectors.asp#:~:text=To%20group%20selectors%2C%20separate%20each%20selector%20with%20a%20comma.) </br>
 [Logical HTML styling](https://www.yourhtmlsource.com/accessibility/logicalstyle.html)
 
 ## License
